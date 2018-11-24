@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/Libraries/Text/RCTTextTransform.h

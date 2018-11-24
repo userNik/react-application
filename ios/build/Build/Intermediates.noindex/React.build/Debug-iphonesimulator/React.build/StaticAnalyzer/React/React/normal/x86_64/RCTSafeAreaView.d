@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaView.m \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/RCTView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/i.nikonenko/Desktop/Projects/awesomeApp/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h
