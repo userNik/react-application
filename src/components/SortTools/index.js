@@ -11,10 +11,16 @@ class SortTools extends PureComponent {
 
     changeActiveState = (checkbox) => {
         return () => {
-            const inSelected = Object.keys(this.state).filter((key) => key !== checkbox);
+            const currentCheckBox = this.state[checkbox];
 
-            this.setState({ [checkbox]: true, [inSelected]: false });
-            this.props.onSortHandler(checkbox);
+            if (currentCheckBox) {
+                this.setState({ [checkbox]: !currentCheckBox });
+                this.props.onSortHandler(null);
+            } else {
+                const inSelected = Object.keys(this.state).filter((key) => key !== checkbox);
+                this.setState({ [checkbox]: true, [inSelected]: false });
+                this.props.onSortHandler(checkbox);
+            }
         }
     };
 

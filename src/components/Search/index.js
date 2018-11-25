@@ -29,7 +29,16 @@ class Search extends Component<State> {
         this.setState({ currentRepo: null });
     };
 
-    onSortHandler = (sort) => this.setState({ sort });
+    onSortHandler = (checkbox) => {
+        const { query } = this.state;
+        const page = 1;
+
+        if (query) {
+            this.props.fetchReposByQuery({ q: query, sort: checkbox, page });
+        }
+
+        this.setState({ sort: checkbox, page });
+    };
 
     onSearchChange = (event) => {
         const query = event.nativeEvent.text;

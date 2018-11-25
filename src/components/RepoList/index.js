@@ -10,7 +10,7 @@ type Props = {
     networkConnection: boolean,
     onRepoPress: () => void,
     loadMoreRepos: () => void,
-}
+};
 
 class RepoItem extends PureComponent<Props> {
     isScrollExecuted = false;
@@ -37,11 +37,14 @@ class RepoItem extends PureComponent<Props> {
     };
 
     renderItem = ({ item }) => {
+        const { fullName, stars, forks } = item;
         return (
             <View style={styles.item}>
                 <TouchableOpacity onPress={this.selectItem(item)}>
+                    <Text style={styles.label}>Star: {stars}</Text>
+                    <Text style={styles.label}>Fork: {forks}</Text>
                     <Text style={styles.text}>
-                        {sliceText(item.fullName, AVAILABLE_LENGTH_CHARACTERS_TO_ITEM_TEXT)}
+                        {sliceText(fullName, AVAILABLE_LENGTH_CHARACTERS_TO_ITEM_TEXT)}
                     </Text>
                 </TouchableOpacity>
             </View>
@@ -64,7 +67,7 @@ class RepoItem extends PureComponent<Props> {
                 <FlatList
                     data={items}
                     renderItem={this.renderItem}
-                    onEndReachedThreshold={0}
+                    onEndReachedThreshold={0.5}
                     onScrollBeginDrag={() => this.isScrollExecuted = true}
                     onEndReached={this.onEndReached}
                 />

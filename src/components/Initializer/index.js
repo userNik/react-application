@@ -36,7 +36,7 @@ class Initializer extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <ActivityIndicator size="large" color="#ffffff" />
+                <ActivityIndicator size="large" color="#ffffff"/>
                 <Text style={styles.text}>Loading...</Text>
             </View>
         )

@@ -5,7 +5,9 @@ export default StyleSheet.create({
         marginTop: 30,
     },
     container: {
+        flex: 1,
         marginTop: 10,
+        marginBottom: 20,
     },
     item: {
         paddingTop: 10,
@@ -14,6 +16,9 @@ export default StyleSheet.create({
         paddingRight: 10,
         borderBottomColor: '#ffffff',
         borderBottomWidth: 1
+    },
+    label: {
+      color: 'white',
     },
     text: {
         color: '#ffffff',
